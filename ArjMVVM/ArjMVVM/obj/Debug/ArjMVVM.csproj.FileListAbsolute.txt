@@ -1,0 +1,15 @@
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\bin\Debug\ArjMVVM.exe.config
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\bin\Debug\ArjMVVM.exe
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\bin\Debug\ArjMVVM.pdb
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\ArjMVVM.csprojAssemblyReference.cache
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\App.g.cs
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\ArjMVVM_MarkupCompile.cache
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\ArjMVVM_MarkupCompile.lref
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\MainWindow.baml
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\ArjMVVM.g.resources
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\ArjMVVM.Properties.Resources.resources
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\ArjMVVM.csproj.GenerateResource.cache
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\ArjMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\ArjMVVM.exe
+C:\Users\Arjun\source\MVVM Examples\ArjMVVM\ArjMVVM\obj\Debug\ArjMVVM.pdb

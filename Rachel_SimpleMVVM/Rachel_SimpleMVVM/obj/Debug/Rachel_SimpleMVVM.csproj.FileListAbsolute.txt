@@ -1,0 +1,16 @@
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\Rachel_SimpleMVVM.csprojAssemblyReference.cache
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\App.g.cs
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\Rachel_SimpleMVVM_MarkupCompile.cache
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\Rachel_SimpleMVVM_MarkupCompile.lref
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\bin\Debug\Rachel_SimpleMVVM.exe.config
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\bin\Debug\Rachel_SimpleMVVM.exe
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\bin\Debug\Rachel_SimpleMVVM.pdb
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\MainWindow.baml
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\Rachel_SimpleMVVM.g.resources
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\Rachel_SimpleMVVM.Properties.Resources.resources
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\Rachel_SimpleMVVM.csproj.GenerateResource.cache
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\Rachel_SimpleMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\Rachel_SimpleMVVM.exe
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\Rachel_SimpleMVVM.pdb
+C:\Users\Arjun\source\MVVM Examples\Rachel_SimpleMVVM\Rachel_SimpleMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
